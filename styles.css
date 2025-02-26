@@ -1,7 +1,5 @@
+/* Import Montserrat font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-
-
-
 
 /* Basic reset to remove default margin/padding */
 * {
@@ -10,7 +8,6 @@
   box-sizing: border-box;
 }
 
-}
 /* Apply Montserrat font globally */
 body {
   font-family: 'Montserrat', sans-serif;
@@ -19,7 +16,7 @@ body {
 
 /* Styling for the navigation bar */
 .navbar {
-   background-color: #a53807; /* Dark background */
+  background-color: #333; /* Dark background */
   position: fixed; /* Fix the navbar at the top */
   width: 100%; /* Full width of the page */
   top: 0;
@@ -36,9 +33,9 @@ body {
 
 .logo a {
   color: #fff;
-  font-size: 16px;
+  font-size: 24px;
   text-decoration: none; /* Remove underline */
-   /* font-weight: bold*/;
+  font-weight: bold;
 }
 
 /* Navigation menu */
@@ -54,14 +51,9 @@ ul li {
 ul li a {
   color: #fff; /* White text */
   text-decoration: none; /* Remove underline */
-  font-size: 10px;
+  font-size: 18px;
 }
 
 ul li a:hover {
   color: #f0f0f0; /* Light hover effect */
-}
-
-/* To prevent content from being hidden behind the navbar */
-body {
-  padding-top: 60px; /* Adjust this if navbar height changes */
 }
