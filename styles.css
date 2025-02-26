@@ -44,6 +44,7 @@ body {
 .main-content {
   padding-top: 40px; /* Adjust this to match the height of your navbar */
   padding: 30px 30px; /* Spacing around the navbar */
+  font-size: 20px;
 }
 
 /* Navigation menu */
