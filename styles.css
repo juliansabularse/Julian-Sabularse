@@ -36,7 +36,7 @@ body {
 
 .logo a {
   color: #fff;
-  font-size: 18px;
+  font-size: 20px;
   text-decoration: none; /* Remove underline */
   font-weight: bold;
 }
@@ -54,7 +54,7 @@ ul li {
 ul li a {
   color: #fff; /* White text */
   text-decoration: none; /* Remove underline */
-  font-size: 12px;
+  font-size: 16px;
 }
 
 ul li a:hover {
