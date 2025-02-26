@@ -16,7 +16,7 @@ body {
 
 /* Styling for the navigation bar */
 .navbar {
-  background-image: url('Untitled-1bg.png'); /* Set background image */
+  background-image: url('https://juliansabularse.github.io/Julian-Sabularse/Untitled-1bg.png'); /* Set background image */
   background-size: cover; /* Stretch the image to cover the navbar */
   background-position: center center; /* Center the image */
   position: fixed; /* Fix the navbar at the top */
