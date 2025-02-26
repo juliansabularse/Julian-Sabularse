@@ -41,6 +41,10 @@ body {
   font-weight: bold;
 }
 
+.main-content {
+  padding-top: 80px; /* Adjust this to match the height of your navbar */
+}
+
 /* Navigation menu */
 ul {
   display: flex;
